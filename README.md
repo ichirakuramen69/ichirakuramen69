@@ -1,4 +1,4 @@
-# Hi, I am Advaith 🐣
+## Hi, I am Advaith 🐣
 
 
 # 🌐 Socials:
@@ -11,10 +11,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ichirakuramen69&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ichirakuramen69&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ichirakuramen69&theme=aura&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+-->
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--### 🔝 Top Contributed Repo
@@ -23,8 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ichirakuramen69&icon=2&color=10)](https://visitcount.itsvg.in)
 -->
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/advaithdinkar) 
+# 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/advaithdinkar) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
