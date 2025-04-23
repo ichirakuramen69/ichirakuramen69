@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I am Advaith
+# Hi, I am Advaith 🐣
 
 
 ## 🌐 Socials:
