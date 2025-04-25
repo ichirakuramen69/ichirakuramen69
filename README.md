@@ -1,4 +1,4 @@
-# Hi, I am Advaith 🐣
+# Hi, I'm Advaith 🐣
 
 
 ### 🌐 Socials:
